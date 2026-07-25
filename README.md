@@ -230,11 +230,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project is collaboratively developed by:
 - Aman Dwivedi
 - Ashmit Raj
+- Aniket Raj
 - Bhumika Suryawanshi
 - Soumili Mandal
 - Shubham Kumar
 - Dinesh Bagariya
-- Aniket / Aditya
+- Aditya
 - And other contributors
 
 ---
